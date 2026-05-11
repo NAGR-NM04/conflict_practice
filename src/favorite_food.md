@@ -1,3 +1,3 @@
 # favorite food
 
-cheese_cake
+miso_soup
